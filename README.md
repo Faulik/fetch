@@ -1,5 +1,7 @@
 # window.fetch polyfill
 
+[![Join the chat at https://gitter.im/siriniok/fetch](https://badges.gitter.im/siriniok/fetch.svg)](https://gitter.im/siriniok/fetch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to uphold this code.
 [code-of-conduct]: http://todogroup.org/opencodeofconduct/#fetch/opensource@github.com
 
